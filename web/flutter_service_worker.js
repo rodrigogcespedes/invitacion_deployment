@@ -13,8 +13,8 @@ const RESOURCES = {"canvaskit/skwasm.js": "411f776c9a5204d1e466141767f5a8fa",
 "canvaskit/canvaskit.js.symbols": "7bc7b816cc2ea20158b8f96a99960393",
 "canvaskit/skwasm.js.symbols": "e03a50cb20ff6c262729d11295ac5454",
 "canvaskit/canvaskit.wasm": "2a1addcc316c372baa0080f30b85a0e3",
-"index.html": "4281aaf62d56be80541776e67330b7a4",
-"/": "4281aaf62d56be80541776e67330b7a4",
+"index.html": "fc97bf7071f89dd36699c96b2e6fa8a7",
+"/": "fc97bf7071f89dd36699c96b2e6fa8a7",
 "icons/Icon-192.png": "1a856b6342c20ef75e3e5d7facfe8a15",
 "icons/Icon-512.png": "1a856b6342c20ef75e3e5d7facfe8a15",
 "icons/app_launcher_icon.png": "1a856b6342c20ef75e3e5d7facfe8a15",
@@ -69,7 +69,7 @@ const RESOURCES = {"canvaskit/skwasm.js": "411f776c9a5204d1e466141767f5a8fa",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/rive_animations/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/shaders/ink_sparkle.frag": "4096b5150bac93c41cbc9b45276bd90f",
-"main.dart.js": "f479031bc47420b49f4803c0928667dd"};
+"main.dart.js": "9ebec2cd55c71eccc6051cc3db4a13ca"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
